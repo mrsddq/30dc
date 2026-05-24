@@ -19,8 +19,13 @@ Baseline repository structure is complete as a learning archive:
 - categorized course folders
 - frontend practice projects
 - DSA notes and revision material
+- placeholder HTML content replaced in visible practice pages
 - root README
 - root `.gitignore`
+
+## Portfolio Position
+
+Keep this archived. It shows learning history, not a focused product or research project.
 
 ## Note
 
