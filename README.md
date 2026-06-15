@@ -27,6 +27,8 @@ Baseline repository structure is complete as a learning archive:
 
 Keep this archived. It shows learning history, not a focused product or research project.
 
+Use [docs/LEARNING_INDEX.md](docs/LEARNING_INDEX.md) to navigate the useful parts and decide what should be extracted later.
+
 ## Note
 
 This repository contains a Windows-incompatible path with a trailing space under `React-JS-Course/React /`. The local checkout uses sparse checkout to avoid that path on Windows.
